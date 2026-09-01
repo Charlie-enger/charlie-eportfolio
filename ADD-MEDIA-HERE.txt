@@ -1,1 +1,0 @@
-Put images, videos, audio, PDFs, and other downloadable files in this folder. Then reference them in assets/data.js, for example: assets/media/my-photo.jpg
